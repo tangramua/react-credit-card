@@ -87,7 +87,7 @@
     "husky": "^4.0.10",
     "jest-cli": "^24.9.0",
     "jsdom": "^16.0.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "postcss": "^7.0.26",
     "postcss-cli": "^7.1.0",
     "prop-types": "^15.7.2",
